@@ -1,9 +1,11 @@
 # asa24x7
 
--------------------------------------------------001------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+                                                   Assignment 1
 
-CS-A 4th Sem Automata Theory Lab
-Assignment-1
+Subject- Automata & Compiler Lab
+Branch- CS
+Semester- 4th (2019-20)
 
 
 Q1) Write a program in C which takes a C program as input and display all the keywords in the program?
